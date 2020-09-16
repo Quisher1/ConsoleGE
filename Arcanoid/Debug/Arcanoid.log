@@ -1,0 +1,19 @@
+﻿  Main.cpp
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\gameengine.h(132): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\gameengine.h(300): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\gameengine.h(317): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\gameengine.h(455): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(61): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(62): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(106): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(114): warning C4305: аргумент: усечение из "double" к "float"
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(121): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(173): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(180): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\кушнаревы\documents\visual studio 2015\projects\arcanoid\main.cpp(182): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Arcanoid.vcxproj -> C:\Users\Кушнаревы\Documents\Visual Studio 2015\Projects\Arcanoid\Debug\Arcanoid.exe
+  Arcanoid.vcxproj -> C:\Users\Кушнаревы\Documents\Visual Studio 2015\Projects\Arcanoid\Debug\Arcanoid.pdb (Full PDB)
